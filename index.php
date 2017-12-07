@@ -11,10 +11,10 @@
  <body>
 
  <h1>C'est mon super site !!</h1>
-   
+
  <p>Il est super</p>
 
-<h2>Hello, je suis super Isa ! et mes modifs sont supers !</h2>
+<h2>Hello, je suis super Isa ! et mes modifs sont supers trop jolies !</h2>
  </body>
 
  </html>
